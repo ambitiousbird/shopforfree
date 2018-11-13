@@ -1,0 +1,38 @@
+
+#logoArea .nav-item a{
+    color:white;
+}
+
+.navbar .nav .dropdown .dropdown-toggle{
+    color:white;
+}
+
+#logoArea .nav-item a:hover{
+    color:rgb(187, 177, 177);
+}
+/* #logoArea .nav-item:nth-child(2) a:hover{
+    color:rgb(187, 177, 177);
+}
+#logoArea .nav-item:nth-child(3) a:hover{
+    color:rgb(187, 177, 177); 
+}*/
+.signin-help-block{
+    color:rgb(158, 65, 65);
+}
+/* .icon-shopping-cart{
+    border:3px solid red;
+    height: 100%;
+}
+
+.nav-item #cart{
+    font-size: 12px;
+} */
+#newuser{
+    color:rgb(119, 119, 119) !important;
+}
+#newuser:hover{
+    color:black !important;
+}
+/* .nav-item .icon-shopping-cart:hover{
+    color:red;
+} */
