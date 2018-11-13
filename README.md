@@ -1,7 +1,6 @@
 ## Table of contents
 
 - [Introduction](#introduction)
-- [Key Features](#key-features)
 - [How to Use](#how-to-use)
 
 
